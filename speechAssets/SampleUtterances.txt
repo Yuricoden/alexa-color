@@ -1,0 +1,28 @@
+DoorSelect {Action} the {Door} door
+DoorSelect {Action} the {Door} door with the key
+PuttingTheKey {Key_action} the key
+ExitSkill exit current skill
+
+BodyLook Look at the body
+BodyLook Look at the Trilby
+BodyGet Get the body
+BodyGet Pick up the body
+BodyGet Get the Trilby
+BodyGet Pick up the Trilby
+BodyAnalyze Analyze the body
+BodyAnalyze Analyze the Trilby
+BodyAnalyze investigate the body
+BodyAnalyze investigate the Trilby
+BodyAnalyze what i can see on the body
+BodySearch Search the body
+BodySearch Search the Trilby
+BodyMourn Mourn Trilby
+BodyCallHelp Call for help
+BodyCallHelpConfirmationYes yes
+BodyCallHelpConfirmationYes shure
+BodyCallHelpConfirmationYes yep
+BodyCallHelpConfirmationNo no
+BodyRun Run away
+BodyRun Go away
+BodyRun get away
+BodyRun escape

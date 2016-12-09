@@ -1,0 +1,59 @@
+{
+  "intents": [
+    {
+      "intent": "DoorSelect",
+      "slots": [
+        {
+          "name": "Door",
+          "type": "LIST_OF_DOORS"
+        },
+        {
+          "name": "Action",
+          "type": "LIST_OF_ACTION"
+        }
+      ]
+    },
+    {
+      "intent": "PuttingTheKey",
+      "slots": [
+        {
+          "name": "Key_action",
+          "type": "LIST_OF_KEY_ACTION"
+        }
+      ]
+    },
+    {
+      "intent": "BodyLook"
+    },
+    {
+      "intent": "BodyGet"
+    },  
+    {
+      "intent": "BodyAnalyze"
+    },
+        {
+      "intent": "BodySearch"
+    },  
+    {
+      "intent": "BodyMourn"
+    },
+    {
+      "intent": "BodyCallHelp"
+    }, 
+    {
+      "intent": "BodyCallHelpConfirmationYes"
+    },
+        {
+      "intent": "BodyCallHelpConfirmationNo"
+    },
+    {
+      "intent": "BodyRun"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "ExitSkill"
+    }
+  ]
+}
